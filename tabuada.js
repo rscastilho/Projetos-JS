@@ -16,9 +16,9 @@
 
 function validaNumero(resultado){
     if(resultado%2===0){
-        console.log(`${resultado} é numero par`)
+        console.log(`${resultado} é numero par.`)
     } else{
-        console.log(`${resultado} é numero impar`)
+        console.log(`${resultado} é numero impar.`)
     }
 }
 
